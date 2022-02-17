@@ -1,0 +1,24 @@
+body
+{
+    color: red;
+    background: #eb9e98;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    background-color: #dec4a9;
+}
+
+.name_of_the_object
+{
+    color: #4063bd;
+}
+
+#camera
+{
+    border: 2px dashed #1f07f2;
+    width: 300x;
+    height: 350px;
+}
